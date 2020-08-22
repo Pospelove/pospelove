@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Leonid 👋
+
+Love to design and implement awesome stuff with predominantly C++ and TypeScript.
+
+🔭 I’m currently working on Skyrim Multiplayer (https://skymp.io/) - a global modification of Skyrim's engine allowing to play online.
 
 <!--
 **Pospelove/pospelove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
