@@ -1,6 +1,4 @@
-### Hi, I'm Leonid 👋
-
-Love to design and implement awesome stuff with predominantly C++ and TypeScript.
+### Hi, I'm Leonid
 
 🔭 I’m currently working on Skyrim Multiplayer (https://skymp.io/) - a global modification of Skyrim's engine allowing to play online.
 
