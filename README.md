@@ -9,7 +9,8 @@
   My hobbies are psychology and modeling. I mint NFTs of my photos.<br/>
   <br/>
   <h4>♥️ &nbsp; Open-Source</h4>
-  I love creating products, writing code, and helping people. Contributed to many OOS projects including 
+  I love creating products, writing code, and helping people.<br/>
+  Contributed to many OOS projects including 
   <a href="https://github.com/ethereum/solidity/commits?author=pospelove">Solidity</a>,
   <a href="https://github.com/kitware/cmake/commits?author=pospelove">CMake</a>,
   <a href="https://github.com/microsoft/vcpkg/commits?author=pospelove">vcpkg</a>, and
