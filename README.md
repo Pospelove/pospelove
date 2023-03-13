@@ -8,7 +8,7 @@
   
   My specialisation is backend, desktop, system programming, devops.<br/>
   I usually work for gamedev or crypto companies. Primary languages are TypeScript, Go and C++. I'm available for hire.<br/>
-  My hobbies are psychology and modeling. I mint NFTs of my photos.<br/>
+  My hobbies are psychology and modeling.<br/>
   <br/>
   <h4>♥️ &nbsp; Open-Source</h4>
   I love creating products, writing code, and helping people.<br/>
